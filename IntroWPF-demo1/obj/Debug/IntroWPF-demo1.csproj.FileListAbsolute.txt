@@ -1,0 +1,16 @@
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\bin\Debug\IntroWPF-demo1.exe.config
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\bin\Debug\IntroWPF-demo1.exe
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\bin\Debug\IntroWPF-demo1.pdb
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\IntroWPF-demo1.csprojResolveAssemblyReference.cache
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\MainWindow.baml
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\MainWindow.g.cs
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\App.g.cs
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\IntroWPF-demo1_MarkupCompile.cache
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\IntroWPF-demo1.g.resources
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\IntroWPF_demo1.Properties.Resources.resources
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\IntroWPF-demo1.csproj.GenerateResource.Cache
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\IntroWPF-demo1.exe
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo1\obj\Debug\IntroWPF-demo1.pdb
+C:\Users\asachs\Documents\Visual Studio 2013\Projects\IntroWPF\IntroWPF-demo1\bin\Debug\IntroWPF-demo1.exe.config
+C:\Users\asachs\Documents\Visual Studio 2013\Projects\IntroWPF\IntroWPF-demo1\obj\Debug\IntroWPF-demo1.exe
+C:\Users\asachs\Documents\Visual Studio 2013\Projects\IntroWPF\IntroWPF-demo1\obj\Debug\IntroWPF-demo1.pdb

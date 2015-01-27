@@ -1,0 +1,23 @@
+﻿<Window x:Class="IntroWPF_demo2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+    </Grid>
+</Window>
+
+    
+    
+    
+<!--
+    
+    (C) All rights reserved, Aviad Sachs 2015 (C)
+    
+    <StackPanel>
+    <Border BorderThickness="40" BorderBrush="Red" Width="auto" Height="10"/>
+    OpenU green  018E8F
+    Button
+    "http://www.openu.ac.il/_layouts/OpenU_WWW/Theming/Responsive/images/logo_op2.jpg"   
+    
+-->

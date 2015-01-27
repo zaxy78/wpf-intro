@@ -1,0 +1,15 @@
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\MainWindow.baml
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\MainWindow.g.cs
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\App.g.cs
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\IntroWPF-demo5_MarkupCompile.cache
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\IntroWPF-demo5.g.resources
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\IntroWPF_demo5.Properties.Resources.resources
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\IntroWPF-demo5.csproj.GenerateResource.Cache
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\bin\Debug\IntroWPF-demo5.exe.config
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\bin\Debug\IntroWPF-demo5.exe
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\bin\Debug\IntroWPF-demo5.pdb
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\IntroWPF-demo5.exe
+c:\users\asachs\documents\visual studio 2013\Projects\IntroWPF-demo1\IntroWPF-demo5\obj\Debug\IntroWPF-demo5.pdb
+C:\Users\asachs\Documents\Visual Studio 2013\Projects\IntroWPF\IntroWPF-demo5\bin\Debug\IntroWPF-demo5.exe.config
+C:\Users\asachs\Documents\Visual Studio 2013\Projects\IntroWPF\IntroWPF-demo5\obj\Debug\IntroWPF-demo5.exe
+C:\Users\asachs\Documents\Visual Studio 2013\Projects\IntroWPF\IntroWPF-demo5\obj\Debug\IntroWPF-demo5.pdb

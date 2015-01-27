@@ -1,0 +1,24 @@
+﻿
+
+<Window x:Class="IntroWPF_demo1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="" Height="350" Width="525">
+    <StackPanel>
+        <Border BorderThickness="40" Width="auto" Height="10" 
+                VerticalAlignment="Top">
+            <Border.BorderBrush>
+                <SolidColorBrush Color="#018E8F" />
+            </Border.BorderBrush>
+        </Border>
+        <Label FontFamily="David" FontSize="23" HorizontalAlignment="Center" Margin="0,25,0,0">ברוכים הבאים לאפליקצית דסקטופ של האופ</Label>
+        
+        <Border Height="100" />
+        <Button Width="200" Height="60" Click="NavigateOnClick">
+            <Button.Background>
+                <ImageBrush ImageSource="http://www.openu.ac.il/_layouts/OpenU_WWW/Theming/Responsive/images/logo_op2.jpg"/>
+            </Button.Background>
+        </Button>
+    </StackPanel>
+
+</Window>
